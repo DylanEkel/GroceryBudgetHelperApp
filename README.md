@@ -67,6 +67,48 @@ By leveraging today’s mobile development tools, cloud platforms, and design th
 
 ---
 
+## By Week 5, the following updates have been made:  
+- Digitized wireframes created in **Figma**  
+- Initial **Kotlin project** set up in **Android Studio**  
+- XML layouts for **Home Dashboard** and **Create List** screens prepared  
+- README and Wiki updated to include a professional **version changelog**
+
+---
+
+## VIII. Version Changelog
+Following the [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) style:
+
+**Version 1.0 (Week 2)**  
+- Initial project outline submission: description, problem, platform, functionality, and wireframes
+
+**Version 1.1 (Week 3)**  
+- Added **Innovation Discussion** section with Dr. Hyman’s principles  
+- Expanded optional features: barcode scanning, data export
+
+**Version 1.2 (Week 4)**  
+- Added **confirmation screen wireframe** to reduce errors and improve UX  
+- Updated GitHub README and Wiki to reflect design enhancements
+
+**Version 1.3 (Week 5 – Current)**  
+- Created **digitized wireframes** using Figma  
+- Set up **Kotlin project in Android Studio**  
+- XML layouts for **Home Dashboard** and **Create List** screens completed  
+- README and Wiki updated for Module 5 submission
+
+**Version 1.4 (Planned Week 6-7)**  
+- Implement **Firebase Realtime Database and Authentication**  
+- Complete **List View** and **Analytics** screens  
+- Push first functioning code to GitHub classroom repository with updated documentation
+
+---
+
+## IX. GitHub Links
+- **Repository:** [Grocery Budget Helper App](https://github.com/DylanEkel/GroceryBudgetHelperApp)  
+- **Wiki:** [Project Outline Wiki](https://github.com/DylanEkel/GroceryBudgetHelperApp/wiki/App-Outline)  
+- **README:** [Current README](https://github.com/DylanEkel/GroceryBudgetHelperApp/blob/main/README.md)
+
+---
+
 ## References
 Hyman, P. (2020). *Innovation and Entrepreneurship Lecture Series* [Video lecture]. Saint Leo University.  
 Google. (n.d.). *Firebase*. https://firebase.google.com/  
